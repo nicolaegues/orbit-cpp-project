@@ -10,7 +10,7 @@ Key outputs of the simulation model include:
 - Parametric studies (e.g., Moon mass variation and solar mass effects)
 The code is currently set up for a 3-body Earth–Moon–Sun system.
 
-The Velcoity Verlet integration algorithm as well as the energy and eccentricity calculations are written in C++ and can be found under 
+### Project structure
 
 The file `orbit_simul.cpp` includes the C++ implementation of the Velocity Verlet algorithm and the energy and eccentricity calculations. 
 
