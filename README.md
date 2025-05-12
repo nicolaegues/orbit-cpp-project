@@ -34,4 +34,4 @@ To run the python wrapper:
 
 ### Example 3-Body Earth, Sun and Moon system
 
-<img src="https://github.com/nicolaegues/orbit-cpp-project/blob/main/my_orbits.gif" width="50%" height="50%">
+<img src="https://github.com/nicolaegues/orbit-cpp-project/blob/main/my_orbits.gif">
