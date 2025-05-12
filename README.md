@@ -30,3 +30,8 @@ To compile the C++ code into a shared library (so the python wrapper can use it)
 To run the python wrapper:
 
         python3 orbit_simul_wrapper.py
+
+
+### Example 3-Body Earth, Sun and Moon system
+
+<img src="https://github.com/nicolaegues/orbit-cpp-project/blob/main/my_orbits.gif" width="50%" height="50%">
