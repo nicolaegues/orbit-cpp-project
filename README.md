@@ -1,7 +1,7 @@
 
 ## N-Body Gravitational Simulation
 
-This project simulates the gravitational interactions between multiple celestial bodies using Newtonian mechanics and the Velocity Verlet integration algorithm. The core numerical computations are written in C++, with a Python wrapper for interfacing and visualizing results.
+This project simulates the gravitational interactions between multiple celestial bodies using Newtonian mechanics and the Velocity Verlet integration algorithm. The core numerical computations are written in C++, with a Python wrapper for interfacing and visualizing results. The corresponding report can be found under  `orbit_report.pdf`.
 
 Key outputs of the simulation model include: 
 - 2D animations of the orbital motions 
